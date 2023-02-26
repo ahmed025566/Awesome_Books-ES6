@@ -57,6 +57,7 @@
 - There is a method that is trigred when the user reload the page and it is populating the data from local     stotrgae to the array of books.
 - I have created a method to delete the corsponding book .
 - I have created three functions to display the right section when the user clicks on the corresponding link.
+- I have used luxon library in order to display date and time.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -122,10 +123,7 @@ You can deploy this project using:
 - Twitter: [@AhmedEl18692792](https://twitter.com/AhmedEl18692792)
 - LinkedIn: [Ahmed Salah](https://www.linkedin.com/in/ahmed-salah025566)
 
-👤 **Nurbol Sultanov**
 
-- GitHub: [@everinurmind](https://github.com/everinurmind)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/everinurmind)
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
