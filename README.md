@@ -68,7 +68,7 @@
 
 > Here is a link to the demo project.
 
-- [Live Demo Link](https://ahmed025566.github.io/Awesome-Books/)
+- [Live Demo Link](https://ahmed025566.github.io/Awesome_Books-ES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
