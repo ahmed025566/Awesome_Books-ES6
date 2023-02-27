@@ -36,7 +36,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+>
 
 <details>
   <summary>Client</summary>
@@ -76,7 +76,7 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+
 
 To get a local copy up and running, follow these steps.
 
@@ -115,7 +115,7 @@ You can deploy this project using:
 
 ## 👤Authors <a name="author"></a>
 
-> This is a pair programming project and you can find our contact details below in case you want to reach out:
+> This is a solo project and you can find my contact details below in case you want to reach out:
 
 👤 **Ahmed Salah**
 
@@ -149,7 +149,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Message of encouragement.
+
 
 If you like this project you can buy me a coffee UwU
 
@@ -159,7 +159,7 @@ If you like this project you can buy me a coffee UwU
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+
 
 I would like to thank those who've motivated me to not give up, and also I would like to thank Microverse for this great opportunity.
 
