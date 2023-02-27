@@ -1,4 +1,4 @@
-import { displayDate } from './display date.js';
+import displayDate from './display date.js';
 
 export const displayList = () => {
   const addNew = document.querySelector('.add-section');
@@ -9,7 +9,7 @@ export const displayList = () => {
   list.classList.remove('display-none');
   const intro = document.getElementById('intro');
   intro.innerHTML = 'All Awesome Books';
-  displayDate();
+  displayDate.display();
 };
 
 export const displayAdd = () => {
@@ -21,7 +21,7 @@ export const displayAdd = () => {
   addNew.classList.remove('display-none');
   const intro = document.getElementById('intro');
   intro.innerHTML = 'Add a new book';
-  displayDate();
+  displayDate.display();
 };
 
 export const displayContact = () => {
@@ -33,5 +33,5 @@ export const displayContact = () => {
   addNew.classList.add('display-none');
   const intro = document.getElementById('intro');
   intro.innerHTML = 'Conatct Information';
-  displayDate();
+  displayDate.display();
 };
